@@ -1,0 +1,40 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_COLOR_MAKEFILE": "OFF",
+        "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+    },
+    // "cmake.generator": "Unix Makefiles",
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "cmake.debugConfig": {
+        "executable": "build/firmware",
+        "request": "launch",
+        "type": "cortex-debug",
+        "servertype": "openocd",
+        "searchDir": [
+            "C:/SystemWorkbench/plugins/fr.ac6.mcu.debug_2.2.0.201807130628/resources/openocd/st_scripts"
+        ],
+        "configFiles": [
+            // "${workspaceRoot}/.vscode/STM32L4R9I-Discovery Run.cfg",
+            "interface/stlink.cfg",
+            "target/stm32l4plusx.cfg"
+        ],
+        // "rtos": "FreeRTOS",
+        // "svdFile": "${workspaceFolder}/.vscode/STM32F401x.svd",
+        "swoConfig": {
+            "enabled": true,
+            "swoFrequency": 500000,
+            "cpuFrequency": 120000000,
+            "source": "probe",
+            "decoders": [
+                {
+                    "port": 0,
+                    "type": "console",
+                },
+                {
+                    "port": 1,
+                    "type": "console",
+                }
+            ]
+        },
+    },
+}

@@ -40,29 +40,28 @@ STemWin/App/BASIC_HelloWorld.c \
 Core/Src/main.c \
 Core/Src/stm32l4xx_it.c \
 Core/Src/stm32l4xx_hal_msp.c \
-Core/Src/system_stm32l4xx.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma_ex.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma.c \
 C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma2d.c \
 C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dsi.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gfxmmu.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_ltdc.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rng.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rtc.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rtc_ex.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash.c \
 C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ex.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gfxmmu.c \
 C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma_ex.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_ltdc.c \
 C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c \
-C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rng.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rtc_ex.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rtc.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim_ex.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_tim.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c \
 C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_fmc.c \
 C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_ll_sdmmc.c \
 C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/BSP/Components/ft3x67/ft3x67.c \
@@ -72,6 +71,7 @@ C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/BSP/STM32L4R
 C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Middlewares/ST/STemWin/OS/GUI_X.c \
 STemWin/Target/GUIConf.c \
 STemWin/Target/LCDConf.c \
+C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/CMSIS/Device/ST/STM32L4xx/Source/Templates/system_stm32l4xx.c \
 # ASM sources
 ASM_SOURCES =  \
 C:/Users/erikr/STM32Cube/Repository/STM32Cube_FW_L4_V1.12.0/Drivers/CMSIS/Device/ST/STM32L4xx/Source/Templates/gcc/startup_stm32l4r9xx.s
