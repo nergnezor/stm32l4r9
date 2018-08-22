@@ -43,12 +43,13 @@
 #include "GUI.h"
 
 /* Functions ------------------------------------------------------------------*/
-void MainTask(void) 
+void MainTask(void)
 {
   GUI_SetBkColor(GUI_BLACK);
   GUI_Clear();
   GUI_SetFont(GUI_FONT_24B_1);
-  GUI_DispStringHCenterAt("Hello Erik!", LCD_GetXSize()/2, (LCD_GetYSize()-16)/2);  
+  GUI_DispStringHCenterAt("Hello Erik!", LCD_GetXSize() / 2, (LCD_GetYSize() - 16) / 2);
+  GUI_DrawCircle(0,0,200);
 }
 
 /*************************** End of file ****************************/

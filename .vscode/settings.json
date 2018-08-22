@@ -19,7 +19,7 @@
             "target/stm32l4plusx.cfg"
         ],
         // "rtos": "FreeRTOS",
-        // "svdFile": "${workspaceFolder}/.vscode/STM32F401x.svd",
+        "svdFile": "C:/SystemWorkbench/plugins/fr.ac6.mcu.ide_2.5.0.201807130628/resources/cmsis/STMicroelectronics_CMSIS_SVD/STM32L4R9.svd",
         "swoConfig": {
             "enabled": true,
             "swoFrequency": 500000,
